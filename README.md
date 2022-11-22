@@ -5,6 +5,7 @@ PRs / branches som ej har mergats kommer ej räknas.
 
 ## Uppgift 1
 
+**Brittish accent**
 Kenneth, the Microsoft lover!
 
 ## Uppgift 2
@@ -132,7 +133,6 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 <var>	Definierar en variabel
 <video>	Definierar en video eller film
 <wbr>	Definierar en möjlig line break
-
 
 Gruppens betyg på slogan. Ge en 1:a till er själva och dela ut 2-6 till de andra grupperna.
 - Grupp 1, X poäng
