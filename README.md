@@ -5,7 +5,7 @@ PRs / branches som ej har mergats kommer ej räknas.
 
 ## Uppgift 1
 
-Skriv en slogan om Kenneth
+Kenneth, the Microsoft lover!
 
 ## Uppgift 2
 
