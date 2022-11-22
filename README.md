@@ -5,6 +5,7 @@ PRs / branches som ej har mergats kommer ej räknas.
 
 ## Uppgift 1
 
+**Brittish accent**
 Kenneth, the Microsoft lover!
 
 ## Uppgift 2
