@@ -16,7 +16,9 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 
 
 !–…–	Definierar en kommentar
+
 !DOCTYPE	Definierar dokumenttypen
+
 a	Definierar en hyperlink
 abbr	Definierar en förkortning
 acronym	Definierar en akronym
